@@ -1,8 +1,8 @@
 <div class="table-responsive">
 	
-	<table class="table table-bordered table-condensed table-hover table-striped " cellspacing="0" width="100%">
+	<table class="table table-bordered table-condensed table-hover  " cellspacing="0" width="100%">
         <thead>
-            <tr style="background-color: #ad86a3;">
+            <tr class="text-dark" style="background-color: #ad86a3;">
             	<th>ID</th>
                 <th>Nombre</th>
                 <th>Cantidad</th>
